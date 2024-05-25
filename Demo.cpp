@@ -1,7 +1,4 @@
-/*
- * Demo program for Exercise 3.
- * Author: Benjamin Saldman.
- */
+// Id: 211696521 Mail: galh2011@icloud.com
 
 #include "Graph.hpp"
 #include "Algorithms.hpp"

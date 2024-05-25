@@ -1,3 +1,4 @@
+// Id: 211696521 Mail: galh2011@icloud.com
 #ifndef GRAPH_HPP
 #define GRAPH_HPP
 
@@ -51,4 +52,4 @@ namespace ariel
 
 }
 
-#endif // GRAPH_HPP
+#endif
